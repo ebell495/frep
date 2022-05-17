@@ -1,0 +1,9 @@
+project: frep
+target: frep
+
+image: ghcr.io/ebell495/frep:latest
+duration: 300
+tests: null
+
+cmds:
+    - cmd: /usr/local/bin/frep @@
