@@ -1,7 +1,5 @@
 project: frep
 target: frep
 
-tests: null
-
 cmds:
     - cmd: /usr/local/bin/frep @@
